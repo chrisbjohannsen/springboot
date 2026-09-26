@@ -33,8 +33,7 @@ build/
 .vscode/
 
 ### Mac FS ###
-*/.DS_Store
+.DS_Store
 
 ### Maven ###
-./.mvn
-
+.mvn/
